@@ -244,13 +244,13 @@ __<u>Output:</u>__
 __<u>Markdown Code 1 (Python):</u>__
 ```markdown
     ```python
-    print("Hello WWorld 👋!")
+    print("Hello World 👋!")
     ```
 ```
 __<u>Output:</u>__
 
 ```python
-print("Hello WWorld 👋!")
+print("Hello World 👋!")
 ```
 __<u>Markdown Code 2 (c++):</u>__
 
